@@ -17,6 +17,6 @@ execute:
   error: false
 
 redivis:
-  user: datapages
-  dataset: palmerpenguins
-  table: penguins
+  user: Candice
+  dataset: MB1
+  table: MB1
