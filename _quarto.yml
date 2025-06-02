@@ -1,10 +1,10 @@
 project:
-  title: "Palmer Penguins"
+  title: "MB01"
   type: datapage
 
 website:
   navbar:
-    logo: images/logo.png
+    logo: 
 
 format:
   datapage-html:
@@ -17,6 +17,7 @@ execute:
   error: false
 
 redivis:
-  user: Candice
-  dataset: MB1
-  table: MB1
+  organization: datapages
+  dataset: many_babies_1
+  table: 02_validated_output
+
